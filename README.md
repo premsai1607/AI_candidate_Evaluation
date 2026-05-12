@@ -11,7 +11,7 @@ A modern, full-stack recruitment tool designed to streamline the hiring process.
 -   **JD Matching**: Analyze candidates against specific Job Descriptions using a weighted scoring algorithm.
 -   **Dynamic Ranking**: Automatically rank candidates from "Recommended" to "Rejected" based on match percentage.
 -   **Professional Dashboard**: Responsive UI with search, status filtering, and detailed candidate modals.
--   **Robust Error Handling**: Comprehensive validation for file types, sizes, and API request states.
+  
 
 ---
 
